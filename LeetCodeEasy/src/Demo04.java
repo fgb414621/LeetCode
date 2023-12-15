@@ -23,7 +23,7 @@ public class Demo04 {
             return -1;
         }//如果haystack不包含needle则返回-1
 
-        return haystack.indexOf(needle);
+        return haystack.indexOf(needle);//返回第一次出现的角标
     }
 
 }
