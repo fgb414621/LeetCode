@@ -9,7 +9,7 @@ import java.util.Map;
  *
  * 如果可以，返回 true ；否则返回 false 。
  *
- * magazine 中的每个字符只能在 ransomNote 中使用一次
+ * magazine 中的每个字符只能在 ransomNote 中使用一次.
  * @Author fgb
  * @Create 2023/12/22 16:59
  * @Version 1.0
